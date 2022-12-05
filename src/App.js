@@ -6,7 +6,7 @@ import Products from "./components/Products";
 import Checkout from "./components/Checkout";
 import Thanks from "./components/Thanks";
 export const config = {
-  endpoint: `https://qkart-backend-akash.herokuapp.com/api/v1`,
+  endpoint: `https://qkart-backend-1oc3.onrender.com/api/v1`,
 };
 
 function App() {
